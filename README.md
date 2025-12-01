@@ -8,8 +8,9 @@ Military service (2026.02.09 ~ 2027.08.11)
 
 
 ## Skills
-[<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white">
-](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
 
 ## Careers
 Not yet   
