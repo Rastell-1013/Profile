@@ -9,7 +9,8 @@ Smoothly Interactive & Responsive Frontend Development
 I live in Incheon, South Korea
 
 
-Skills
+Skills(src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 Python JavaScript C C#
 
 Careers
