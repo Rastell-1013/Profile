@@ -1,4 +1,4 @@
-Military service (2026.02.09 ~ 2027.08.11)
+Military (2026.02.09 ~ 2027.08.11)
 
 # Hello  My name is Jiwon LEE
 ## Backend Developer
